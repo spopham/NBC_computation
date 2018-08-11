@@ -1,0 +1,14 @@
+python>=3.6
+jupyter
+
+numpy
+scipy
+matplotlib
+mahotas
+IPython
+skimage
+pandas
+seaborn
+scikit-learn
+statsmodels
+ipywidgets>=7.0

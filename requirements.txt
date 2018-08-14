@@ -1,12 +1,10 @@
 python>=3.6
 jupyter
-
 numpy
 scipy
 matplotlib
 mahotas
-IPython
-skimage
+scikit-image
 pandas
 seaborn
 scikit-learn

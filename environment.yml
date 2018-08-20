@@ -1,0 +1,15 @@
+name: nbc_env
+
+dependencies:
+- python>=3.6
+- jupyter
+- numpy
+- scipy
+- matplotlib
+- mahotas
+- scikit-image
+- pandas
+- seaborn
+- scikit-learn
+- statsmodels
+- ipywidgets>=7.0
